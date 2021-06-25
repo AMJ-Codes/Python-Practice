@@ -1,0 +1,6 @@
+print("Hello, World")
+print(1 + 2)
+print(7 * 6)
+print()
+print("Welcome to hell, you blubbering goon!")
+print("Welcome to the coding den, a place born from the nightmares of primitive apes with little to no cognitive ability.")
